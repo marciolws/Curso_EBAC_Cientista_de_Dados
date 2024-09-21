@@ -4,4 +4,4 @@
 > [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://raw.githubusercontent.com/marciolws/Curso_EBAC_Cientista_de_Dados/refs/heads/main/Módulo%2019%20-%20Streamlit%20II/Exercício%201/Mod19_EX1_Streamlit%20II.py)
 
 # Exercício 2
-> [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)]()
+> [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://github.com/marciolws/Curso_EBAC_Cientista_de_Dados/blob/main/Módulo%2019%20-%20Streamlit%20II/Exercício%202/Mod19_EX2_StreamlitII.py)
