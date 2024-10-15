@@ -5,7 +5,7 @@
 # [**Profissão: Cientista de Dados**](https://github.com/marciolws/Curso_EBAC_Cientista_de_Dados)
 ### [**Módulo 31** | Streamlit V]() | [Exercício 1]()
 
-**Por:** [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/marcio-d-silva/)<br>
+**Por:** [Marcio da Silva](https://www.linkedin.com/in/marcio-d-silva/)<br>
 **Data:** 15 de novembro de 2024.
 
 ---
@@ -14,18 +14,18 @@
 Segmentação de clientes utilizando o RFV (Recência, Frequência e Valor)
 
 #### Link para a aplicação (*Deploy* do modelo/streamlit)
-link da app
+https://streamlitv.onrender.com
 
 [![Render](https://img.shields.io/badge/Render-46E3B7?&logo=render&logoColor=white)](https://ebac-modulo-31-streamlit-v-exercicio-1.onrender.com/)
 
 ---
 
-#### [Requisitos](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/blob/main/Modulo_31_-_Streamlit_V/Exercicio%201/requirements.txt)
+#### [Requisitos]([https://github.com/marciolws/Curso_EBAC_Cientista_de_Dados/blob/main/Modulo%2031%20-%20Streamlit%20V/Exercicio%20I/requirements.txt])
 ```bash
-numpy==1.21.6
-pandas==1.3.5
-streamlit==1.23.1
-XlsxWriter==3.1.9
+numpy==1.26.4
+pandas==2.2.3
+streamlit==1.39.0
+XlsxWriter==3.2.0
 ```
 
 #### Instalação
