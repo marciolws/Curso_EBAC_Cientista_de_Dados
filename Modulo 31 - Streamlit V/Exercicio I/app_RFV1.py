@@ -56,7 +56,7 @@ def main():
                 
     ---
                 
-    ### **Módulo 31** | Streamlit V | Exercício 1
+    ### **Módulo 31** | Streamlit V | Exercício I
                 
     **Aluno:** [Marcio da Silva](https://www.linkedin.com/in/marcio-d-silva/)<br>
     **Data:** 15 de outubro de 2024.

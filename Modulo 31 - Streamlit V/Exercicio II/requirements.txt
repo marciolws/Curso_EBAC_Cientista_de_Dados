@@ -2,4 +2,4 @@ numpy==1.26.4
 pandas==2.2.3
 streamlit==1.39.0
 XlsxWriter==3.2.0
-https://github.com/marciolws/Curso_EBAC_Cientista_de_Dados/tree/86f34d9d31f47fcde433e2c09b9c9174b537d5e6/Modulo%2031%20-%20Streamlit%20V
+
