@@ -61,9 +61,9 @@ A base de dados contém registros de 12.330 sessões de acesso, cada uma corresp
 ---
 
 ## Link para a aplicação (*Deploy* do projeto)
-(app)
+(https://streamlitv2.onrender.com)
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](link projeto2)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://streamlitv2.onrender.com)
 
 ---
 
